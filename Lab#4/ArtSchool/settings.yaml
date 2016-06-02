@@ -1,0 +1,13 @@
+#-------------------------------
+# General Site Settings
+
+title: Pizza <br> cooking courses
+author: Bujac Petru, TI-141
+email: cookwithus@pizza.com
+description:> Bring a piece of Italy to your home
+
+menu:
+- {name: Home, url: '#home'}
+- {name: About, url: '#about'}
+- {name: Enroll, url: '#enroll'}
+- {name: Contact, url: '#contact'}

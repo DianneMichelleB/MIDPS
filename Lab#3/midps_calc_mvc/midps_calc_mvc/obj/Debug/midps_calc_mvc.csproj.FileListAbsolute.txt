@@ -1,0 +1,10 @@
+E:\dima\Lab#3\midps_calc_mvc\midps_calc_mvc\bin\Debug\midps_calc_mvc.exe.config
+E:\dima\Lab#3\midps_calc_mvc\midps_calc_mvc\bin\Debug\midps_calc_mvc.exe
+E:\dima\Lab#3\midps_calc_mvc\midps_calc_mvc\bin\Debug\midps_calc_mvc.pdb
+E:\dima\Lab#3\midps_calc_mvc\midps_calc_mvc\obj\Debug\midps_calc_mvc.csprojResolveAssemblyReference.cache
+E:\dima\Lab#3\midps_calc_mvc\midps_calc_mvc\obj\Debug\midps_calc_mvc.Controller.resources
+E:\dima\Lab#3\midps_calc_mvc\midps_calc_mvc\obj\Debug\midps_calc_mvc.Properties.Resources.resources
+E:\dima\Lab#3\midps_calc_mvc\midps_calc_mvc\obj\Debug\midps_calc_mvc.View.resources
+E:\dima\Lab#3\midps_calc_mvc\midps_calc_mvc\obj\Debug\midps_calc_mvc.csproj.GenerateResource.Cache
+E:\dima\Lab#3\midps_calc_mvc\midps_calc_mvc\obj\Debug\midps_calc_mvc.exe
+E:\dima\Lab#3\midps_calc_mvc\midps_calc_mvc\obj\Debug\midps_calc_mvc.pdb

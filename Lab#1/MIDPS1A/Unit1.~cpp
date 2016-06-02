@@ -1,0 +1,44 @@
+//---------------------------------------------------------------------------
+
+#include <vcl.h>
+#pragma hdrstop
+
+#include "Unit1.h"
+#include "stdio.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+#pragma resource "*.dfm"
+int i = 0;
+TForm1 *Form1;
+//---------------------------------------------------------------------------
+__fastcall TForm1::TForm1(TComponent* Owner)
+        : TForm(Owner)
+{
+  Label1->Caption = "Incrementare / descrementare contor";
+}
+//---------------------------------------------------------------------------
+
+void __fastcall TForm1::UpClick(TObject *Sender)
+{
+  i++;
+  char buff[20];
+  sprintf(buff,"%d",i);
+  Edit1->Text = (AnsiString) buff;
+  Label2->Caption = "i creste in Edit1";
+}
+//---------------------------------------------------------------------------
+
+void __fastcall TForm1::DownClick(TObject *Sender)
+{
+  i--;
+  char buff[20];
+  sprintf(buff,"%d",i);
+  Edit1->Text = (AnsiString) buff;
+  Label2->Caption = "i scade in Edit1";        
+}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::ExitClick(TObject *Sender)
+{
+  Close();
+}
+//---------------------------------------------------------------------------
